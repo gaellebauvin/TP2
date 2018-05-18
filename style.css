@@ -88,8 +88,9 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: purple;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
+    text-align: center;
 }
