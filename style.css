@@ -6,7 +6,7 @@
 
 #header
 {
-	background: #ccc;
+	background: #cef;
 	padding: 20px;
 }
 
@@ -16,7 +16,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #555;
 }
 
 #navigation ul
@@ -62,7 +62,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: #150;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
