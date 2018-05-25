@@ -1,7 +1,7 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #8DDBE8;
 }
 
 #header
@@ -10,7 +10,12 @@
 	padding: 20px;
 }
 
-#header h1 { margin: 0; }
+#header h1 { 
+margin: 0;
+text-align : center;
+ }
+ 
+ 
 
 #navigation
 {
@@ -83,13 +88,17 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	}
+
+#news h2 {
+	text-align : center;
 }
 
 #footer
 {
 	clear: both;
 	background: #ccc;
-	text-align: right;
+	text-align: center;
 	padding: 20px;
 	height: 1%;
 }
